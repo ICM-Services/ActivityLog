@@ -1,5 +1,5 @@
 {
-	"name": "ICM-Services/activity-log",
+	"name": "icm-services/activity-log",
 	"description": "Fork of regulus/Activity-log for Laravel 6.",
 	"license": "MIT",
 	"authors": [
@@ -12,7 +12,7 @@
 		"php": ">=5.4.0",
 		"laravel/framework": ">=6.*",
 
-		"ICM-Services/tetra-text": "0.6.*"
+		"icm-services/tetra-text": "0.6.*"
 	},
 	"autoload": {
 		"psr-4": {
