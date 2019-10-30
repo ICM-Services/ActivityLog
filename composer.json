@@ -10,7 +10,7 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"laravel/framework": ">=6.*",
+		"laravel/framework": "6.*",
 
 		"icm-services/tetra-text": "0.6.*"
 	},
