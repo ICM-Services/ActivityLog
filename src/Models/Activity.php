@@ -1,4 +1,4 @@
-<?php namespace Regulus\ActivityLog\Models;
+<?php namespace ICM-Services\ActivityLog\Models;
 
 /*----------------------------------------------------------------------------------------------------------
 	Activity Log

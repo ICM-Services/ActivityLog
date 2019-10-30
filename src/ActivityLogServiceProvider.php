@@ -1,4 +1,4 @@
-<?php namespace Regulus\ActivityLog;
+<?php namespace ICM-Services\ActivityLog;
 
 use Illuminate\Support\ServiceProvider;
 

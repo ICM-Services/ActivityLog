@@ -16,8 +16,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Regulus\\ActivityLog\\": "src/",
-			"Regulus\\TetraText\\": "src/"
+			"ICM-Services\\ActivityLog\\": "src/",
+			"ICM-Services\\TetraText\\": "src/"
 		}
 	}
 }
